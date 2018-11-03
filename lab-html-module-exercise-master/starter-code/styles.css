@@ -1,0 +1,141 @@
+nav {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 100px;
+  vertical-align: baseline;
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+  vertical-align: top;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.top-left {
+  vertical-align: baseline;
+}
+
+.header {
+  background-color: rgb(32, 101, 136);
+  color: #fff;
+}
+
+.search-bar-background {
+  background-color: rgb(31, 82, 111);
+  color: #fff;
+}
+
+.build-amazing-things {
+  width: 0px auto;
+  margin: 0px auto;
+  background-color: rgb(32, 101, 136);
+}
+
+.header .img {
+  width: 100px;
+}
+
+.log-in {
+  text-decoration: none;
+  color: white;
+  font-weight: lighter;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.build-amazing-things .img {
+  width: 200px;
+  height: 250px;
+  float: right;
+}
+
+h1, h2, h3, h4, h5, h6, p, a, li {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+}
+
+.build-amazing-things .link-btn {
+  color: white;
+  border: solid 2px rgb(240, 146, 51);
+  border-radius: 50px;
+  background-color: rgb(240, 146, 51);
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+.collaboration .link-btn {
+  color: white;
+  border: solid 2px rgb(203, 56, 55);
+  border-radius: 50px;
+  background-color: rgb(203, 56, 55);
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+.collaboration {
+  width: 0px auto;
+  margin: 0px auto;
+  float: right;
+  background: rgb(39, 53, 71);
+  color: white;
+}
+.features {
+  background: rgb(39, 53, 71);
+}
+.collaboration-img {
+  width: 600px;
+  background: rgb(39, 53, 71);
+}
+
+.pricing .link-btn {
+
+  color: white;
+  border: solid 2px rgb(49, 68, 88);
+  border-radius: 50px;
+  background-color: rgb(49, 68, 88);
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+.forklift {
+  height: 450px;
+  width: 1000px;
+  background-size: cover;
+}
+
+.pricing .text {
+  color: white;
+  position: absolute;
+
+}
+#pricing{
+  background-image: url(./images/forklift.svg);
+}
+
+.col {
+  float: left;
+}
+
+.col-3 {
+  width: 33%;
+}
+
+.col-middle {
+  margin: 0 auto;
+}
